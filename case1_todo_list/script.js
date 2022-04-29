@@ -1,3 +1,3 @@
-import Wrap from './components/Wrap.js';
+import App from './components/App.js';
 
-new Wrap({ $target: document.querySelector(".wrap")});
+new App({ $target: document.querySelector(".wrap")});
